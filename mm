@@ -1,0 +1,1 @@
+https://buyaoda.2dwy7h39sd.com/api/getSetting
