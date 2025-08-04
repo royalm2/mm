@@ -1,10 +1,9 @@
-[
-    {
+[{
         "name": "abc",
         "info": "",
         "icon": "t:👀#ffa500",
         "sign": "092de1b7a530b43cd12efe8fefbe80c8",
-        "version": 171,
+        "version": 172,
         "type": "轻站",
         "url": "abc.mkz"
     },
