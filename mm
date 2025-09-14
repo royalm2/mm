@@ -1,1 +1,1 @@
-https://biegao.y109t17jay.com/api/getSetting
+https://gnjk2.dyxygv.com/api/getSetting
