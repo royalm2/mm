@@ -1,1 +1,0 @@
-https://gnjk2.dyxygv.com/api/getSetting
